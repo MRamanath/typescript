@@ -1,3 +1,4 @@
+// ts supports only single inheritance
 class Department {
     private employees: string[] = [];
 
