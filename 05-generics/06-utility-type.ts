@@ -1,3 +1,5 @@
+https://www.typescriptlang.org/docs/handbook/utility-types.html
+
 interface CourseGoal {
     title: string;
     description: string;
